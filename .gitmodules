@@ -1,3 +1,6 @@
 [submodule "monoc"]
 	path = monoc
 	url = https://github.com/MonoFivem/monoc
+[submodule "mono-titlemenu"]
+	path = monoc
+	url = https://github.com/MonoFivem/mono-titlemenu
