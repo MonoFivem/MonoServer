@@ -1,0 +1,3 @@
+[submodule "monoc"]
+	path = monoc
+	url = https://github.com/MonoFivem/monoc
